@@ -1,0 +1,1677 @@
+store line 1
+j = 1, p1 = 1, p2 = 2
+segm-trigs: trig1 = 1, trig1b = 1, trig2 = 523, trig2b = 523
+j = 2, p1 = 2, p2 = 3
+segm-trigs: trig1 = 1, trig1b = 1, trig2 = 523, trig2b = 523
+store line 2
+j = 1, p1 = 3, p2 = 4
+segm-trigs: trig1 = 1, trig1b = 1, trig2 = 528, trig2b = 528
+j = 2, p1 = 4, p2 = 5
+segm-trigs: trig1 = 1, trig1b = 1, trig2 = 528, trig2b = 528
+store line 3
+j = 1, p1 = 6, p2 = 7
+segm-trigs: trig1 = 2, trig1b = 2, trig2 = 519, trig2b = 519
+j = 2, p1 = 7, p2 = 1
+segm-trigs: trig1 = 2, trig1b = 2, trig2 = 519, trig2b = 519
+store line 4
+j = 1, p1 = 8, p2 = 9
+segm-trigs: trig1 = 3, trig1b = 3, trig2 = 1396, trig2b = 1396
+j = 2, p1 = 9, p2 = 10
+segm-trigs: trig1 = 3, trig1b = 3, trig2 = 1396, trig2b = 1396
+store line 5
+j = 1, p1 = 11, p2 = 12
+segm-trigs: trig1 = 3, trig1b = 3, trig2 = 1397, trig2b = 1397
+j = 2, p1 = 12, p2 = 8
+segm-trigs: trig1 = 3, trig1b = 3, trig2 = 1397, trig2b = 1397
+store line 6
+j = 1, p1 = 5, p2 = 13
+segm-trigs: trig1 = 4, trig1b = 4, trig2 = 1402, trig2b = 1402
+j = 2, p1 = 13, p2 = 14
+segm-trigs: trig1 = 4, trig1b = 4, trig2 = 1402, trig2b = 1402
+store line 7
+j = 1, p1 = 15, p2 = 16
+segm-trigs: trig1 = 5, trig1b = 5, trig2 = 1398, trig2b = 1398
+j = 2, p1 = 16, p2 = 17
+segm-trigs: trig1 = 5, trig1b = 5, trig2 = 1398, trig2b = 1398
+store line 8
+j = 1, p1 = 18, p2 = 19
+segm-trigs: trig1 = 5, trig1b = 5, trig2 = 422, trig2b = 422
+j = 2, p1 = 19, p2 = 15
+segm-trigs: trig1 = 5, trig1b = 5, trig2 = 422, trig2b = 422
+store line 9
+j = 1, p1 = 20, p2 = 21
+segm-trigs: trig1 = 6, trig1b = 6, trig2 = 1406, trig2b = 1406
+j = 2, p1 = 21, p2 = 11
+segm-trigs: trig1 = 6, trig1b = 6, trig2 = 1406, trig2b = 1406
+store line 10
+j = 1, p1 = 22, p2 = 23
+segm-trigs: trig1 = 6, trig1b = 6, trig2 = 1416, trig2b = 1416
+j = 2, p1 = 23, p2 = 20
+segm-trigs: trig1 = 6, trig1b = 6, trig2 = 1416, trig2b = 1416
+store line 11
+j = 1, p1 = 24, p2 = 25
+segm-trigs: trig1 = 8, trig1b = 8, trig2 = 421, trig2b = 421
+j = 2, p1 = 25, p2 = 26
+segm-trigs: trig1 = 8, trig1b = 8, trig2 = 421, trig2b = 421
+store line 12
+j = 1, p1 = 26, p2 = 27
+segm-trigs: trig1 = 8, trig1b = 8, trig2 = 1408, trig2b = 1408
+j = 2, p1 = 27, p2 = 28
+segm-trigs: trig1 = 8, trig1b = 8, trig2 = 1408, trig2b = 1408
+store line 13
+j = 1, p1 = 29, p2 = 30
+segm-trigs: trig1 = 11, trig1b = 11, trig2 = 1423, trig2b = 1423
+j = 2, p1 = 30, p2 = 31
+segm-trigs: trig1 = 11, trig1b = 11, trig2 = 1423, trig2b = 1423
+store line 14
+j = 1, p1 = 31, p2 = 32
+segm-trigs: trig1 = 11, trig1b = 11, trig2 = 1425, trig2b = 1425
+j = 2, p1 = 32, p2 = 33
+segm-trigs: trig1 = 11, trig1b = 11, trig2 = 1425, trig2b = 1425
+store line 15
+j = 1, p1 = 14, p2 = 34
+segm-trigs: trig1 = 12, trig1b = 12, trig2 = 1421, trig2b = 1421
+j = 2, p1 = 34, p2 = 29
+segm-trigs: trig1 = 12, trig1b = 12, trig2 = 1421, trig2b = 1421
+store line 16
+j = 1, p1 = 33, p2 = 35
+segm-trigs: trig1 = 13, trig1b = 13, trig2 = 400, trig2b = 400
+j = 2, p1 = 35, p2 = 22
+segm-trigs: trig1 = 13, trig1b = 13, trig2 = 400, trig2b = 400
+store line 17
+j = 1, p1 = 36, p2 = 37
+segm-trigs: trig1 = 14, trig1b = 14, trig2 = 1417, trig2b = 1417
+j = 2, p1 = 37, p2 = 18
+segm-trigs: trig1 = 14, trig1b = 14, trig2 = 1417, trig2b = 1417
+store line 18
+j = 1, p1 = 38, p2 = 39
+segm-trigs: trig1 = 14, trig1b = 14, trig2 = 436, trig2b = 436
+j = 2, p1 = 39, p2 = 36
+segm-trigs: trig1 = 14, trig1b = 14, trig2 = 436, trig2b = 436
+store line 19
+j = 1, p1 = 28, p2 = 40
+segm-trigs: trig1 = 16, trig1b = 16, trig2 = 435, trig2b = 435
+j = 2, p1 = 40, p2 = 41
+segm-trigs: trig1 = 16, trig1b = 16, trig2 = 435, trig2b = 435
+store line 20
+j = 1, p1 = 41, p2 = 42
+segm-trigs: trig1 = 16, trig1b = 16, trig2 = 1433, trig2b = 1433
+j = 2, p1 = 42, p2 = 43
+segm-trigs: trig1 = 16, trig1b = 16, trig2 = 1433, trig2b = 1433
+store line 21
+j = 1, p1 = 44, p2 = 45
+segm-trigs: trig1 = 17, trig1b = 17, trig2 = 1389, trig2b = 1389
+j = 2, p1 = 45, p2 = 24
+segm-trigs: trig1 = 17, trig1b = 17, trig2 = 1389, trig2b = 1389
+store line 22
+j = 1, p1 = 17, p2 = 46
+segm-trigs: trig1 = 18, trig1b = 18, trig2 = 1389, trig2b = 1389
+j = 2, p1 = 46, p2 = 44
+segm-trigs: trig1 = 18, trig1b = 18, trig2 = 1389, trig2b = 1389
+store line 23
+j = 1, p1 = 47, p2 = 48
+segm-trigs: trig1 = 20, trig1b = 20, trig2 = 1448, trig2b = 1448
+j = 2, p1 = 48, p2 = 38
+segm-trigs: trig1 = 20, trig1b = 20, trig2 = 1448, trig2b = 1448
+store line 24
+j = 1, p1 = 49, p2 = 50
+segm-trigs: trig1 = 20, trig1b = 20, trig2 = 1448, trig2b = 1448
+j = 2, p1 = 50, p2 = 47
+segm-trigs: trig1 = 20, trig1b = 20, trig2 = 1448, trig2b = 1448
+store line 25
+j = 1, p1 = 51, p2 = 52
+segm-trigs: trig1 = 21, trig1b = 21, trig2 = 1454, trig2b = 1454
+j = 2, p1 = 52, p2 = 49
+segm-trigs: trig1 = 21, trig1b = 21, trig2 = 1454, trig2b = 1454
+store line 26
+j = 1, p1 = 53, p2 = 54
+segm-trigs: trig1 = 24, trig1b = 24, trig2 = 1454, trig2b = 1454
+j = 2, p1 = 54, p2 = 51
+segm-trigs: trig1 = 24, trig1b = 24, trig2 = 1454, trig2b = 1454
+store line 27
+j = 1, p1 = 55, p2 = 56
+segm-trigs: trig1 = 25, trig1b = 25, trig2 = 459, trig2b = 459
+j = 2, p1 = 56, p2 = 53
+segm-trigs: trig1 = 25, trig1b = 25, trig2 = 459, trig2b = 459
+store line 28
+j = 1, p1 = 57, p2 = 58
+segm-trigs: trig1 = 26, trig1b = 26, trig2 = 1385, trig2b = 1385
+j = 2, p1 = 58, p2 = 55
+segm-trigs: trig1 = 26, trig1b = 26, trig2 = 1385, trig2b = 1385
+store line 29
+j = 1, p1 = 59, p2 = 60
+segm-trigs: trig1 = 26, trig1b = 26, trig2 = 476, trig2b = 476
+j = 2, p1 = 60, p2 = 57
+segm-trigs: trig1 = 26, trig1b = 26, trig2 = 476, trig2b = 476
+store line 30
+j = 1, p1 = 61, p2 = 62
+segm-trigs: trig1 = 27, trig1b = 27, trig2 = 472, trig2b = 472
+j = 2, p1 = 62, p2 = 63
+segm-trigs: trig1 = 27, trig1b = 27, trig2 = 472, trig2b = 472
+store line 31
+j = 1, p1 = 63, p2 = 64
+segm-trigs: trig1 = 27, trig1b = 27, trig2 = 477, trig2b = 477
+j = 2, p1 = 64, p2 = 65
+segm-trigs: trig1 = 27, trig1b = 27, trig2 = 477, trig2b = 477
+store line 32
+j = 1, p1 = 66, p2 = 67
+segm-trigs: trig1 = 28, trig1b = 28, trig2 = 1460, trig2b = 1460
+j = 2, p1 = 67, p2 = 61
+segm-trigs: trig1 = 28, trig1b = 28, trig2 = 1460, trig2b = 1460
+store line 33
+j = 1, p1 = 68, p2 = 69
+segm-trigs: trig1 = 29, trig1b = 29, trig2 = 493, trig2b = 493
+j = 2, p1 = 69, p2 = 70
+segm-trigs: trig1 = 29, trig1b = 29, trig2 = 493, trig2b = 493
+store line 34
+j = 1, p1 = 71, p2 = 72
+segm-trigs: trig1 = 29, trig1b = 29, trig2 = 1443, trig2b = 1443
+j = 2, p1 = 72, p2 = 68
+segm-trigs: trig1 = 29, trig1b = 29, trig2 = 1443, trig2b = 1443
+store line 35
+j = 1, p1 = 70, p2 = 73
+segm-trigs: trig1 = 30, trig1b = 30, trig2 = 483, trig2b = 483
+j = 2, p1 = 73, p2 = 59
+segm-trigs: trig1 = 30, trig1b = 30, trig2 = 483, trig2b = 483
+store line 36
+j = 1, p1 = 74, p2 = 75
+segm-trigs: trig1 = 33, trig1b = 33, trig2 = 1443, trig2b = 1443
+j = 2, p1 = 75, p2 = 71
+segm-trigs: trig1 = 33, trig1b = 33, trig2 = 1443, trig2b = 1443
+store line 37
+j = 1, p1 = 76, p2 = 77
+segm-trigs: trig1 = 34, trig1b = 34, trig2 = 1428, trig2b = 1428
+j = 2, p1 = 77, p2 = 78
+segm-trigs: trig1 = 34, trig1b = 34, trig2 = 1428, trig2b = 1428
+store line 38
+j = 1, p1 = 78, p2 = 79
+segm-trigs: trig1 = 34, trig1b = 34, trig2 = 495, trig2b = 495
+j = 2, p1 = 79, p2 = 80
+segm-trigs: trig1 = 34, trig1b = 34, trig2 = 495, trig2b = 495
+store line 39
+j = 1, p1 = 80, p2 = 81
+segm-trigs: trig1 = 35, trig1b = 35, trig2 = 501, trig2b = 501
+j = 2, p1 = 81, p2 = 82
+segm-trigs: trig1 = 35, trig1b = 35, trig2 = 501, trig2b = 501
+store line 40
+j = 1, p1 = 82, p2 = 83
+segm-trigs: trig1 = 35, trig1b = 35, trig2 = 1453, trig2b = 1453
+j = 2, p1 = 83, p2 = 84
+segm-trigs: trig1 = 35, trig1b = 35, trig2 = 1453, trig2b = 1453
+store line 41
+j = 1, p1 = 65, p2 = 85
+segm-trigs: trig1 = 36, trig1b = 36, trig2 = 1411, trig2b = 1411
+j = 2, p1 = 85, p2 = 76
+segm-trigs: trig1 = 36, trig1b = 36, trig2 = 1411, trig2b = 1411
+store line 42
+j = 1, p1 = 84, p2 = 86
+segm-trigs: trig1 = 39, trig1b = 39, trig2 = 1457, trig2b = 1457
+j = 2, p1 = 86, p2 = 6
+segm-trigs: trig1 = 39, trig1b = 39, trig2 = 1457, trig2b = 1457
+store line 43
+j = 1, p1 = 43, p2 = 87
+segm-trigs: trig1 = 41, trig1b = 41, trig2 = 1432, trig2b = 1432
+j = 2, p1 = 87, p2 = 88
+segm-trigs: trig1 = 41, trig1b = 41, trig2 = 1432, trig2b = 1432
+j = 3, p1 = 88, p2 = 66
+segm-trigs: trig1 = 41, trig1b = 41, trig2 = 1432, trig2b = 1432
+store line 44
+j = 1, p1 = 10, p2 = 89
+segm-trigs: trig1 = 42, trig1b = 42, trig2 = 1377, trig2b = 1377
+j = 2, p1 = 89, p2 = 90
+segm-trigs: trig1 = 42, trig1b = 42, trig2 = 1377, trig2b = 1377
+j = 3, p1 = 90, p2 = 74
+segm-trigs: trig1 = 42, trig1b = 42, trig2 = 1377, trig2b = 1377
+store line 45
+j = 1, p1 = 91, p2 = 92
+segm-trigs: trig1 = 967, trig1b = 969, trig2 = 74, trig2b = 80
+j = 2, p1 = 92, p2 = 93
+segm-trigs: trig1 = 969, trig1b = 978, trig2 = 80, trig2b = 87
+j = 3, p1 = 93, p2 = 94
+segm-trigs: trig1 = 978, trig1b = 983, trig2 = 87, trig2b = 89
+j = 4, p1 = 94, p2 = 95
+segm-trigs: trig1 = 983, trig1b = 992, trig2 = 89, trig2b = 96
+j = 5, p1 = 95, p2 = 96
+segm-trigs: trig1 = 992, trig1b = 980, trig2 = 96, trig2b = 102
+j = 6, p1 = 96, p2 = 97
+segm-trigs: trig1 = 980, trig1b = 976, trig2 = 102, trig2b = 117
+j = 7, p1 = 97, p2 = 98
+segm-trigs: trig1 = 976, trig1b = 968, trig2 = 117, trig2b = 123
+j = 8, p1 = 98, p2 = 99
+segm-trigs: trig1 = 968, trig1b = 964, trig2 = 123, trig2b = 127
+j = 9, p1 = 99, p2 = 100
+segm-trigs: trig1 = 964, trig1b = 957, trig2 = 127, trig2b = 134
+j = 10, p1 = 100, p2 = 101
+segm-trigs: trig1 = 957, trig1b = 943, trig2 = 134, trig2b = 146
+j = 11, p1 = 101, p2 = 102
+segm-trigs: trig1 = 943, trig1b = 932, trig2 = 146, trig2b = 151
+j = 12, p1 = 102, p2 = 103
+segm-trigs: trig1 = 932, trig1b = 930, trig2 = 151, trig2b = 142
+j = 13, p1 = 103, p2 = 104
+segm-trigs: trig1 = 930, trig1b = 924, trig2 = 142, trig2b = 140
+j = 14, p1 = 104, p2 = 105
+segm-trigs: trig1 = 924, trig1b = 913, trig2 = 140, trig2b = 131
+j = 15, p1 = 105, p2 = 106
+segm-trigs: trig1 = 913, trig1b = 910, trig2 = 131, trig2b = 126
+store line 46
+j = 1, p1 = 107, p2 = 108
+segm-trigs: trig1 = 901, trig1b = 895, trig2 = 110, trig2b = 105
+j = 2, p1 = 108, p2 = 109
+segm-trigs: trig1 = 895, trig1b = 891, trig2 = 105, trig2b = 97
+j = 3, p1 = 109, p2 = 110
+segm-trigs: trig1 = 891, trig1b = 886, trig2 = 97, trig2b = 91
+j = 4, p1 = 110, p2 = 111
+segm-trigs: trig1 = 886, trig1b = 881, trig2 = 91, trig2b = 93
+j = 5, p1 = 111, p2 = 112
+segm-trigs: trig1 = 881, trig1b = 888, trig2 = 93, trig2b = 78
+j = 6, p1 = 112, p2 = 113
+segm-trigs: trig1 = 888, trig1b = 893, trig2 = 78, trig2b = 76
+j = 7, p1 = 113, p2 = 114
+segm-trigs: trig1 = 893, trig1b = 896, trig2 = 76, trig2b = 67
+j = 8, p1 = 114, p2 = 115
+segm-trigs: trig1 = 896, trig1b = 903, trig2 = 67, trig2b = 64
+j = 9, p1 = 115, p2 = 116
+segm-trigs: trig1 = 903, trig1b = 906, trig2 = 64, trig2b = 55
+j = 10, p1 = 116, p2 = 117
+segm-trigs: trig1 = 906, trig1b = 914, trig2 = 55, trig2b = 53
+j = 11, p1 = 117, p2 = 118
+segm-trigs: trig1 = 914, trig1b = 936, trig2 = 53, trig2b = 43
+j = 12, p1 = 118, p2 = 119
+segm-trigs: trig1 = 936, trig1b = 926, trig2 = 43, trig2b = 47
+j = 13, p1 = 119, p2 = 120
+segm-trigs: trig1 = 926, trig1b = 941, trig2 = 47, trig2b = 52
+j = 14, p1 = 120, p2 = 121
+segm-trigs: trig1 = 941, trig1b = 944, trig2 = 52, trig2b = 62
+j = 15, p1 = 121, p2 = 122
+segm-trigs: trig1 = 944, trig1b = 946, trig2 = 62, trig2b = 113
+store line 47
+j = 1, p1 = 91, p2 = 123
+segm-trigs: trig1 = 112, trig1b = 112, trig2 = 963, trig2b = 963
+j = 2, p1 = 123, p2 = 122
+segm-trigs: trig1 = 112, trig1b = 112, trig2 = 963, trig2b = 963
+store line 48
+j = 1, p1 = 107, p2 = 124
+segm-trigs: trig1 = 124, trig1b = 124, trig2 = 945, trig2b = 945
+j = 2, p1 = 124, p2 = 106
+segm-trigs: trig1 = 124, trig1b = 124, trig2 = 945, trig2b = 945
+store line 49
+j = 1, p1 = 125, p2 = 126
+segm-trigs: trig1 = 157, trig1b = 157, trig2 = 268, trig2b = 268
+j = 2, p1 = 126, p2 = 91
+segm-trigs: trig1 = 157, trig1b = 157, trig2 = 268, trig2b = 268
+store line 50
+j = 1, p1 = 125, p2 = 127
+segm-trigs: trig1 = 462, trig1b = 465, trig2 = 157, trig2b = 162
+j = 2, p1 = 127, p2 = 128
+segm-trigs: trig1 = 465, trig1b = 474, trig2 = 162, trig2b = 170
+j = 3, p1 = 128, p2 = 129
+segm-trigs: trig1 = 474, trig1b = 484, trig2 = 170, trig2b = 178
+j = 4, p1 = 129, p2 = 130
+segm-trigs: trig1 = 484, trig1b = 491, trig2 = 178, trig2b = 183
+j = 5, p1 = 130, p2 = 131
+segm-trigs: trig1 = 491, trig1b = 503, trig2 = 183, trig2b = 193
+j = 6, p1 = 131, p2 = 132
+segm-trigs: trig1 = 503, trig1b = 515, trig2 = 193, trig2b = 200
+j = 7, p1 = 132, p2 = 133
+segm-trigs: trig1 = 515, trig1b = 520, trig2 = 200, trig2b = 208
+j = 8, p1 = 133, p2 = 134
+segm-trigs: trig1 = 520, trig1b = 529, trig2 = 208, trig2b = 213
+j = 9, p1 = 134, p2 = 135
+segm-trigs: trig1 = 529, trig1b = 540, trig2 = 213, trig2b = 221
+j = 10, p1 = 135, p2 = 136
+segm-trigs: trig1 = 540, trig1b = 393, trig2 = 221, trig2b = 229
+j = 11, p1 = 136, p2 = 137
+segm-trigs: trig1 = 393, trig1b = 403, trig2 = 229, trig2b = 239
+j = 12, p1 = 137, p2 = 138
+segm-trigs: trig1 = 403, trig1b = 397, trig2 = 239, trig2b = 244
+j = 13, p1 = 138, p2 = 139
+segm-trigs: trig1 = 397, trig1b = 387, trig2 = 244, trig2b = 251
+j = 14, p1 = 139, p2 = 140
+segm-trigs: trig1 = 387, trig1b = 533, trig2 = 251, trig2b = 259
+j = 15, p1 = 140, p2 = 141
+segm-trigs: trig1 = 533, trig1b = 525, trig2 = 259, trig2b = 266
+store line 51
+j = 1, p1 = 106, p2 = 142
+segm-trigs: trig1 = 266, trig1b = 266, trig2 = 381, trig2b = 381
+j = 2, p1 = 142, p2 = 141
+segm-trigs: trig1 = 266, trig1b = 266, trig2 = 381, trig2b = 381
+store line 52
+j = 1, p1 = 143, p2 = 144
+segm-trigs: trig1 = 267, trig1b = 267, trig2 = 380, trig2b = 380
+j = 2, p1 = 144, p2 = 122
+segm-trigs: trig1 = 267, trig1b = 267, trig2 = 380, trig2b = 380
+store line 53
+j = 1, p1 = 125, p2 = 145
+segm-trigs: trig1 = 267, trig1b = 267, trig2 = 443, trig2b = 443
+j = 2, p1 = 145, p2 = 143
+segm-trigs: trig1 = 267, trig1b = 267, trig2 = 443, trig2b = 443
+store line 54
+j = 1, p1 = 146, p2 = 147
+segm-trigs: trig1 = 270, trig1b = 270, trig2 = 382, trig2b = 382
+j = 2, p1 = 147, p2 = 107
+segm-trigs: trig1 = 270, trig1b = 270, trig2 = 382, trig2b = 382
+store line 55
+j = 1, p1 = 146, p2 = 148
+segm-trigs: trig1 = 513, trig1b = 507, trig2 = 270, trig2b = 276
+j = 2, p1 = 148, p2 = 149
+segm-trigs: trig1 = 507, trig1b = 496, trig2 = 276, trig2b = 284
+j = 3, p1 = 149, p2 = 150
+segm-trigs: trig1 = 496, trig1b = 482, trig2 = 284, trig2b = 292
+j = 4, p1 = 150, p2 = 151
+segm-trigs: trig1 = 482, trig1b = 471, trig2 = 292, trig2b = 297
+j = 5, p1 = 151, p2 = 152
+segm-trigs: trig1 = 471, trig1b = 454, trig2 = 297, trig2b = 306
+j = 6, p1 = 152, p2 = 153
+segm-trigs: trig1 = 454, trig1b = 452, trig2 = 306, trig2b = 313
+j = 7, p1 = 153, p2 = 154
+segm-trigs: trig1 = 452, trig1b = 445, trig2 = 313, trig2b = 321
+j = 8, p1 = 154, p2 = 155
+segm-trigs: trig1 = 445, trig1b = 438, trig2 = 321, trig2b = 327
+j = 9, p1 = 155, p2 = 156
+segm-trigs: trig1 = 438, trig1b = 423, trig2 = 327, trig2b = 335
+j = 10, p1 = 156, p2 = 157
+segm-trigs: trig1 = 423, trig1b = 416, trig2 = 335, trig2b = 343
+j = 11, p1 = 157, p2 = 158
+segm-trigs: trig1 = 416, trig1b = 406, trig2 = 343, trig2b = 352
+j = 12, p1 = 158, p2 = 159
+segm-trigs: trig1 = 406, trig1b = 412, trig2 = 352, trig2b = 358
+j = 13, p1 = 159, p2 = 160
+segm-trigs: trig1 = 412, trig1b = 425, trig2 = 358, trig2b = 365
+j = 14, p1 = 160, p2 = 161
+segm-trigs: trig1 = 425, trig1b = 434, trig2 = 365, trig2b = 373
+j = 15, p1 = 161, p2 = 143
+segm-trigs: trig1 = 434, trig1b = 442, trig2 = 373, trig2b = 379
+store line 56
+j = 1, p1 = 146, p2 = 162
+segm-trigs: trig1 = 381, trig1b = 381, trig2 = 522, trig2b = 522
+j = 2, p1 = 162, p2 = 141
+segm-trigs: trig1 = 381, trig1b = 381, trig2 = 522, trig2b = 522
+store line 57
+j = 1, p1 = 163, p2 = 164
+segm-trigs: trig1 = 541, trig1b = 541, trig2 = 585, trig2b = 585
+j = 2, p1 = 164, p2 = 165
+segm-trigs: trig1 = 541, trig1b = 541, trig2 = 585, trig2b = 585
+store line 58
+j = 1, p1 = 163, p2 = 166
+segm-trigs: trig1 = 735, trig1b = 729, trig2 = 541, trig2b = 544
+j = 2, p1 = 166, p2 = 167
+segm-trigs: trig1 = 729, trig1b = 723, trig2 = 544, trig2b = 547
+j = 3, p1 = 167, p2 = 168
+segm-trigs: trig1 = 723, trig1b = 716, trig2 = 547, trig2b = 560
+j = 4, p1 = 168, p2 = 169
+segm-trigs: trig1 = 716, trig1b = 707, trig2 = 560, trig2b = 551
+j = 5, p1 = 169, p2 = 170
+segm-trigs: trig1 = 707, trig1b = 702, trig2 = 551, trig2b = 554
+j = 6, p1 = 170, p2 = 171
+segm-trigs: trig1 = 702, trig1b = 696, trig2 = 554, trig2b = 557
+store line 59
+j = 1, p1 = 172, p2 = 173
+segm-trigs: trig1 = 557, trig1b = 557, trig2 = 592, trig2b = 592
+j = 2, p1 = 173, p2 = 171
+segm-trigs: trig1 = 557, trig1b = 557, trig2 = 592, trig2b = 592
+store line 60
+j = 1, p1 = 165, p2 = 174
+segm-trigs: trig1 = 558, trig1b = 558, trig2 = 589, trig2b = 589
+j = 2, p1 = 174, p2 = 175
+segm-trigs: trig1 = 558, trig1b = 558, trig2 = 589, trig2b = 589
+j = 3, p1 = 175, p2 = 176
+segm-trigs: trig1 = 558, trig1b = 558, trig2 = 589, trig2b = 589
+j = 4, p1 = 176, p2 = 177
+segm-trigs: trig1 = 558, trig1b = 558, trig2 = 589, trig2b = 589
+j = 5, p1 = 177, p2 = 178
+segm-trigs: trig1 = 558, trig1b = 558, trig2 = 589, trig2b = 589
+j = 6, p1 = 178, p2 = 172
+segm-trigs: trig1 = 558, trig1b = 558, trig2 = 589, trig2b = 589
+store line 61
+j = 1, p1 = 179, p2 = 180
+segm-trigs: trig1 = 562, trig1b = 565, trig2 = 806, trig2b = 812
+j = 2, p1 = 180, p2 = 181
+segm-trigs: trig1 = 565, trig1b = 568, trig2 = 812, trig2b = 817
+j = 3, p1 = 181, p2 = 182
+segm-trigs: trig1 = 568, trig1b = 580, trig2 = 817, trig2b = 823
+j = 4, p1 = 182, p2 = 183
+segm-trigs: trig1 = 580, trig1b = 572, trig2 = 823, trig2b = 833
+j = 5, p1 = 183, p2 = 184
+segm-trigs: trig1 = 572, trig1b = 575, trig2 = 833, trig2b = 839
+j = 6, p1 = 184, p2 = 185
+segm-trigs: trig1 = 575, trig1b = 578, trig2 = 839, trig2b = 845
+store line 62
+j = 1, p1 = 186, p2 = 187
+segm-trigs: trig1 = 562, trig1b = 562, trig2 = 586, trig2b = 586
+j = 2, p1 = 187, p2 = 179
+segm-trigs: trig1 = 562, trig1b = 562, trig2 = 586, trig2b = 586
+store line 63
+j = 1, p1 = 185, p2 = 188
+segm-trigs: trig1 = 578, trig1b = 578, trig2 = 591, trig2b = 591
+j = 2, p1 = 188, p2 = 189
+segm-trigs: trig1 = 578, trig1b = 578, trig2 = 591, trig2b = 591
+store line 64
+j = 1, p1 = 189, p2 = 190
+segm-trigs: trig1 = 579, trig1b = 579, trig2 = 583, trig2b = 583
+j = 2, p1 = 190, p2 = 191
+segm-trigs: trig1 = 579, trig1b = 579, trig2 = 583, trig2b = 583
+j = 3, p1 = 191, p2 = 192
+segm-trigs: trig1 = 579, trig1b = 579, trig2 = 583, trig2b = 583
+j = 4, p1 = 192, p2 = 193
+segm-trigs: trig1 = 579, trig1b = 579, trig2 = 583, trig2b = 583
+j = 5, p1 = 193, p2 = 194
+segm-trigs: trig1 = 579, trig1b = 579, trig2 = 583, trig2b = 583
+j = 6, p1 = 194, p2 = 186
+segm-trigs: trig1 = 579, trig1b = 579, trig2 = 583, trig2b = 583
+store line 65
+j = 1, p1 = 195, p2 = 196
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 2, p1 = 196, p2 = 197
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 3, p1 = 197, p2 = 198
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 4, p1 = 198, p2 = 199
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 5, p1 = 199, p2 = 200
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 6, p1 = 200, p2 = 201
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 7, p1 = 201, p2 = 202
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 8, p1 = 202, p2 = 203
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 9, p1 = 203, p2 = 204
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 10, p1 = 204, p2 = 205
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 11, p1 = 205, p2 = 206
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 12, p1 = 206, p2 = 207
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 13, p1 = 207, p2 = 208
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 14, p1 = 208, p2 = 209
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 15, p1 = 209, p2 = 210
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 16, p1 = 210, p2 = 211
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 17, p1 = 211, p2 = 212
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 18, p1 = 212, p2 = 213
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 19, p1 = 213, p2 = 214
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 20, p1 = 214, p2 = 215
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 21, p1 = 215, p2 = 216
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 22, p1 = 216, p2 = 217
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 23, p1 = 217, p2 = 218
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 24, p1 = 218, p2 = 219
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+j = 25, p1 = 219, p2 = 186
+segm-trigs: trig1 = 583, trig1b = 583, trig2 = 586, trig2b = 586
+store line 66
+j = 1, p1 = 189, p2 = 220
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 2, p1 = 220, p2 = 221
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 3, p1 = 221, p2 = 222
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 4, p1 = 222, p2 = 223
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 5, p1 = 223, p2 = 224
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 6, p1 = 224, p2 = 225
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 7, p1 = 225, p2 = 226
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 8, p1 = 226, p2 = 227
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 9, p1 = 227, p2 = 228
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 10, p1 = 228, p2 = 229
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 11, p1 = 229, p2 = 230
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 12, p1 = 230, p2 = 231
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 13, p1 = 231, p2 = 232
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 14, p1 = 232, p2 = 233
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 15, p1 = 233, p2 = 234
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 16, p1 = 234, p2 = 235
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 17, p1 = 235, p2 = 236
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 18, p1 = 236, p2 = 237
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 19, p1 = 237, p2 = 238
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 20, p1 = 238, p2 = 239
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 21, p1 = 239, p2 = 240
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 22, p1 = 240, p2 = 241
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 23, p1 = 241, p2 = 242
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 24, p1 = 242, p2 = 243
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+j = 25, p1 = 243, p2 = 244
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 591, trig2b = 591
+store line 67
+j = 1, p1 = 244, p2 = 245
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 596, trig2b = 596
+j = 2, p1 = 245, p2 = 246
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 596, trig2b = 596
+j = 3, p1 = 246, p2 = 247
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 596, trig2b = 596
+j = 4, p1 = 247, p2 = 248
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 596, trig2b = 596
+j = 5, p1 = 248, p2 = 249
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 596, trig2b = 596
+j = 6, p1 = 249, p2 = 195
+segm-trigs: trig1 = 584, trig1b = 584, trig2 = 596, trig2b = 596
+store line 68
+j = 1, p1 = 250, p2 = 251
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 2, p1 = 251, p2 = 252
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 3, p1 = 252, p2 = 253
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 4, p1 = 253, p2 = 254
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 5, p1 = 254, p2 = 255
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 6, p1 = 255, p2 = 256
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 7, p1 = 256, p2 = 257
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 8, p1 = 257, p2 = 258
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 9, p1 = 258, p2 = 259
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 10, p1 = 259, p2 = 260
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 11, p1 = 260, p2 = 261
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 12, p1 = 261, p2 = 262
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 13, p1 = 262, p2 = 263
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 14, p1 = 263, p2 = 264
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 15, p1 = 264, p2 = 265
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 16, p1 = 265, p2 = 266
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 17, p1 = 266, p2 = 267
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 18, p1 = 267, p2 = 268
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 19, p1 = 268, p2 = 269
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 20, p1 = 269, p2 = 270
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 21, p1 = 270, p2 = 271
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 22, p1 = 271, p2 = 272
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 23, p1 = 272, p2 = 273
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 24, p1 = 273, p2 = 274
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+j = 25, p1 = 274, p2 = 165
+segm-trigs: trig1 = 585, trig1b = 585, trig2 = 589, trig2b = 589
+store line 69
+j = 1, p1 = 163, p2 = 275
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 2, p1 = 275, p2 = 276
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 3, p1 = 276, p2 = 277
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 4, p1 = 277, p2 = 278
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 5, p1 = 278, p2 = 279
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 6, p1 = 279, p2 = 280
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 7, p1 = 280, p2 = 281
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 8, p1 = 281, p2 = 282
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 9, p1 = 282, p2 = 283
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+j = 10, p1 = 283, p2 = 179
+segm-trigs: trig1 = 587, trig1b = 587, trig2 = 659, trig2b = 659
+store line 70
+j = 1, p1 = 195, p2 = 284
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 2, p1 = 284, p2 = 285
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 3, p1 = 285, p2 = 286
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 4, p1 = 286, p2 = 287
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 5, p1 = 287, p2 = 288
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 6, p1 = 288, p2 = 289
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 7, p1 = 289, p2 = 290
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 8, p1 = 290, p2 = 291
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 9, p1 = 291, p2 = 292
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 10, p1 = 292, p2 = 293
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 11, p1 = 293, p2 = 294
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+j = 12, p1 = 294, p2 = 250
+segm-trigs: trig1 = 588, trig1b = 588, trig2 = 596, trig2b = 596
+store line 71
+j = 1, p1 = 295, p2 = 296
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 2, p1 = 296, p2 = 297
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 3, p1 = 297, p2 = 298
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 4, p1 = 298, p2 = 299
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 5, p1 = 299, p2 = 300
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 6, p1 = 300, p2 = 301
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 7, p1 = 301, p2 = 302
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 8, p1 = 302, p2 = 303
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 9, p1 = 303, p2 = 304
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 10, p1 = 304, p2 = 305
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 11, p1 = 305, p2 = 306
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 12, p1 = 306, p2 = 307
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 13, p1 = 307, p2 = 308
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 14, p1 = 308, p2 = 309
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 15, p1 = 309, p2 = 310
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 16, p1 = 310, p2 = 311
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 17, p1 = 311, p2 = 312
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 18, p1 = 312, p2 = 313
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 19, p1 = 313, p2 = 314
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 20, p1 = 314, p2 = 315
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 21, p1 = 315, p2 = 316
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 22, p1 = 316, p2 = 317
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 23, p1 = 317, p2 = 318
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 24, p1 = 318, p2 = 319
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+j = 25, p1 = 319, p2 = 172
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 592, trig2b = 592
+store line 72
+j = 1, p1 = 250, p2 = 320
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 595, trig2b = 595
+j = 2, p1 = 320, p2 = 321
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 595, trig2b = 595
+j = 3, p1 = 321, p2 = 322
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 595, trig2b = 595
+j = 4, p1 = 322, p2 = 323
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 595, trig2b = 595
+j = 5, p1 = 323, p2 = 324
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 595, trig2b = 595
+j = 6, p1 = 324, p2 = 295
+segm-trigs: trig1 = 590, trig1b = 590, trig2 = 595, trig2b = 595
+store line 73
+j = 1, p1 = 185, p2 = 325
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 2, p1 = 325, p2 = 326
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 3, p1 = 326, p2 = 327
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 4, p1 = 327, p2 = 328
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 5, p1 = 328, p2 = 329
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 6, p1 = 329, p2 = 330
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 7, p1 = 330, p2 = 331
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 8, p1 = 331, p2 = 332
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 9, p1 = 332, p2 = 333
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+j = 10, p1 = 333, p2 = 171
+segm-trigs: trig1 = 593, trig1b = 593, trig2 = 620, trig2b = 620
+store line 74
+j = 1, p1 = 295, p2 = 334
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 2, p1 = 334, p2 = 335
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 3, p1 = 335, p2 = 336
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 4, p1 = 336, p2 = 337
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 5, p1 = 337, p2 = 338
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 6, p1 = 338, p2 = 339
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 7, p1 = 339, p2 = 340
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 8, p1 = 340, p2 = 341
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 9, p1 = 341, p2 = 342
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 10, p1 = 342, p2 = 343
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 11, p1 = 343, p2 = 344
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+j = 12, p1 = 344, p2 = 244
+segm-trigs: trig1 = 594, trig1b = 594, trig2 = 595, trig2b = 595
+store line 75
+j = 1, p1 = 171, p2 = 345
+segm-trigs: trig1 = 694, trig1b = 688, trig2 = 597, trig2b = 598
+j = 2, p1 = 345, p2 = 346
+segm-trigs: trig1 = 688, trig1b = 682, trig2 = 598, trig2b = 599
+j = 3, p1 = 346, p2 = 347
+segm-trigs: trig1 = 682, trig1b = 675, trig2 = 599, trig2b = 602
+j = 4, p1 = 347, p2 = 348
+segm-trigs: trig1 = 675, trig1b = 669, trig2 = 602, trig2b = 603
+j = 5, p1 = 348, p2 = 349
+segm-trigs: trig1 = 669, trig1b = 663, trig2 = 603, trig2b = 604
+store line 76
+j = 1, p1 = 350, p2 = 351
+segm-trigs: trig1 = 877, trig1b = 871, trig2 = 612, trig2b = 614
+j = 2, p1 = 351, p2 = 352
+segm-trigs: trig1 = 871, trig1b = 865, trig2 = 614, trig2b = 618
+j = 3, p1 = 352, p2 = 353
+segm-trigs: trig1 = 865, trig1b = 860, trig2 = 618, trig2b = 622
+j = 4, p1 = 353, p2 = 354
+segm-trigs: trig1 = 860, trig1b = 853, trig2 = 622, trig2b = 628
+j = 5, p1 = 354, p2 = 185
+segm-trigs: trig1 = 853, trig1b = 847, trig2 = 628, trig2b = 623
+store line 77
+j = 1, p1 = 350, p2 = 355
+segm-trigs: trig1 = 619, trig1b = 619, trig2 = 770, trig2b = 770
+j = 2, p1 = 355, p2 = 349
+segm-trigs: trig1 = 619, trig1b = 619, trig2 = 770, trig2b = 770
+store line 78
+j = 1, p1 = 163, p2 = 356
+segm-trigs: trig1 = 638, trig1b = 630, trig2 = 737, trig2b = 743
+j = 2, p1 = 356, p2 = 357
+segm-trigs: trig1 = 630, trig1b = 632, trig2 = 743, trig2b = 750
+j = 3, p1 = 357, p2 = 358
+segm-trigs: trig1 = 632, trig1b = 636, trig2 = 750, trig2b = 755
+j = 4, p1 = 358, p2 = 359
+segm-trigs: trig1 = 636, trig1b = 637, trig2 = 755, trig2b = 761
+j = 5, p1 = 359, p2 = 360
+segm-trigs: trig1 = 637, trig1b = 640, trig2 = 761, trig2b = 767
+store line 79
+j = 1, p1 = 361, p2 = 362
+segm-trigs: trig1 = 644, trig1b = 651, trig2 = 773, trig2b = 779
+j = 2, p1 = 362, p2 = 363
+segm-trigs: trig1 = 651, trig1b = 647, trig2 = 779, trig2b = 785
+j = 3, p1 = 363, p2 = 364
+segm-trigs: trig1 = 647, trig1b = 650, trig2 = 785, trig2b = 792
+j = 4, p1 = 364, p2 = 365
+segm-trigs: trig1 = 650, trig1b = 653, trig2 = 792, trig2b = 798
+j = 5, p1 = 365, p2 = 179
+segm-trigs: trig1 = 653, trig1b = 658, trig2 = 798, trig2b = 804
+store line 80
+j = 1, p1 = 360, p2 = 366
+segm-trigs: trig1 = 660, trig1b = 660, trig2 = 880, trig2b = 880
+j = 2, p1 = 366, p2 = 361
+segm-trigs: trig1 = 660, trig1b = 660, trig2 = 880, trig2b = 880
+store line 81
+j = 1, p1 = 349, p2 = 122
+segm-trigs: trig1 = 661, trig1b = 661, trig2 = 769, trig2b = 769
+store line 82
+j = 1, p1 = 107, p2 = 360
+segm-trigs: trig1 = 768, trig1b = 768, trig2 = 880, trig2b = 880
+store line 83
+j = 1, p1 = 350, p2 = 91
+segm-trigs: trig1 = 770, trig1b = 770, trig2 = 878, trig2b = 878
+store line 84
+j = 1, p1 = 361, p2 = 106
+segm-trigs: trig1 = 771, trig1b = 771, trig2 = 879, trig2b = 879
+store line 85
+j = 1, p1 = 367, p2 = 368
+segm-trigs: trig1 = 1156, trig1b = 1146, trig2 = 997, trig2b = 998
+store line 86
+j = 1, p1 = 369, p2 = 370
+segm-trigs: trig1 = 1170, trig1b = 1160, trig2 = 1001, trig2b = 1004
+store line 87
+j = 1, p1 = 371, p2 = 372
+segm-trigs: trig1 = 1005, trig1b = 1010, trig2 = 1186, trig2b = 1196
+store line 88
+j = 1, p1 = 373, p2 = 374
+segm-trigs: trig1 = 1011, trig1b = 1016, trig2 = 1172, trig2b = 1182
+store line 89
+j = 1, p1 = 375, p2 = 376
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 2, p1 = 376, p2 = 377
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 3, p1 = 377, p2 = 378
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 4, p1 = 378, p2 = 379
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 5, p1 = 379, p2 = 380
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 6, p1 = 380, p2 = 381
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 7, p1 = 381, p2 = 382
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 8, p1 = 382, p2 = 383
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 9, p1 = 383, p2 = 384
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 10, p1 = 384, p2 = 385
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 11, p1 = 385, p2 = 386
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+j = 12, p1 = 386, p2 = 387
+segm-trigs: trig1 = 1017, trig1b = 1017, trig2 = 1031, trig2b = 1031
+store line 90
+j = 1, p1 = 374, p2 = 388
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 2, p1 = 388, p2 = 389
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 3, p1 = 389, p2 = 390
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 4, p1 = 390, p2 = 391
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 5, p1 = 391, p2 = 392
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 6, p1 = 392, p2 = 393
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 7, p1 = 393, p2 = 394
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 8, p1 = 394, p2 = 395
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 9, p1 = 395, p2 = 396
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 10, p1 = 396, p2 = 397
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+j = 11, p1 = 397, p2 = 370
+segm-trigs: trig1 = 1018, trig1b = 1018, trig2 = 1285, trig2b = 1285
+store line 91
+j = 1, p1 = 387, p2 = 398
+segm-trigs: trig1 = 1019, trig1b = 1019, trig2 = 1025, trig2b = 1025
+j = 2, p1 = 398, p2 = 399
+segm-trigs: trig1 = 1019, trig1b = 1019, trig2 = 1025, trig2b = 1025
+j = 3, p1 = 399, p2 = 400
+segm-trigs: trig1 = 1019, trig1b = 1019, trig2 = 1025, trig2b = 1025
+j = 4, p1 = 400, p2 = 401
+segm-trigs: trig1 = 1019, trig1b = 1019, trig2 = 1025, trig2b = 1025
+j = 5, p1 = 401, p2 = 402
+segm-trigs: trig1 = 1019, trig1b = 1019, trig2 = 1025, trig2b = 1025
+j = 6, p1 = 402, p2 = 403
+segm-trigs: trig1 = 1019, trig1b = 1019, trig2 = 1025, trig2b = 1025
+store line 92
+j = 1, p1 = 372, p2 = 404
+segm-trigs: trig1 = 1020, trig1b = 1020, trig2 = 1184, trig2b = 1184
+j = 2, p1 = 404, p2 = 405
+segm-trigs: trig1 = 1020, trig1b = 1020, trig2 = 1184, trig2b = 1184
+j = 3, p1 = 405, p2 = 406
+segm-trigs: trig1 = 1020, trig1b = 1020, trig2 = 1184, trig2b = 1184
+j = 4, p1 = 406, p2 = 407
+segm-trigs: trig1 = 1020, trig1b = 1020, trig2 = 1184, trig2b = 1184
+j = 5, p1 = 407, p2 = 373
+segm-trigs: trig1 = 1020, trig1b = 1020, trig2 = 1184, trig2b = 1184
+store line 93
+j = 1, p1 = 403, p2 = 408
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 2, p1 = 408, p2 = 409
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 3, p1 = 409, p2 = 410
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 4, p1 = 410, p2 = 411
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 5, p1 = 411, p2 = 412
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 6, p1 = 412, p2 = 413
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 7, p1 = 413, p2 = 414
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 8, p1 = 414, p2 = 415
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 9, p1 = 415, p2 = 416
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 10, p1 = 416, p2 = 417
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 11, p1 = 417, p2 = 418
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+j = 12, p1 = 418, p2 = 419
+segm-trigs: trig1 = 1021, trig1b = 1021, trig2 = 1027, trig2b = 1027
+store line 94
+j = 1, p1 = 367, p2 = 420
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 2, p1 = 420, p2 = 421
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 3, p1 = 421, p2 = 422
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 4, p1 = 422, p2 = 423
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 5, p1 = 423, p2 = 424
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 6, p1 = 424, p2 = 425
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 7, p1 = 425, p2 = 426
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 8, p1 = 426, p2 = 427
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 9, p1 = 427, p2 = 428
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 10, p1 = 428, p2 = 429
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+j = 11, p1 = 429, p2 = 371
+segm-trigs: trig1 = 1022, trig1b = 1022, trig2 = 1375, trig2b = 1375
+store line 95
+j = 1, p1 = 419, p2 = 430
+segm-trigs: trig1 = 1023, trig1b = 1023, trig2 = 1029, trig2b = 1029
+j = 2, p1 = 430, p2 = 431
+segm-trigs: trig1 = 1023, trig1b = 1023, trig2 = 1029, trig2b = 1029
+j = 3, p1 = 431, p2 = 432
+segm-trigs: trig1 = 1023, trig1b = 1023, trig2 = 1029, trig2b = 1029
+j = 4, p1 = 432, p2 = 433
+segm-trigs: trig1 = 1023, trig1b = 1023, trig2 = 1029, trig2b = 1029
+j = 5, p1 = 433, p2 = 434
+segm-trigs: trig1 = 1023, trig1b = 1023, trig2 = 1029, trig2b = 1029
+j = 6, p1 = 434, p2 = 375
+segm-trigs: trig1 = 1023, trig1b = 1023, trig2 = 1029, trig2b = 1029
+store line 96
+j = 1, p1 = 369, p2 = 435
+segm-trigs: trig1 = 1024, trig1b = 1024, trig2 = 1158, trig2b = 1158
+j = 2, p1 = 435, p2 = 436
+segm-trigs: trig1 = 1024, trig1b = 1024, trig2 = 1158, trig2b = 1158
+j = 3, p1 = 436, p2 = 437
+segm-trigs: trig1 = 1024, trig1b = 1024, trig2 = 1158, trig2b = 1158
+j = 4, p1 = 437, p2 = 438
+segm-trigs: trig1 = 1024, trig1b = 1024, trig2 = 1158, trig2b = 1158
+j = 5, p1 = 438, p2 = 368
+segm-trigs: trig1 = 1024, trig1b = 1024, trig2 = 1158, trig2b = 1158
+store line 97
+j = 1, p1 = 439, p2 = 440
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 2, p1 = 440, p2 = 441
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 3, p1 = 441, p2 = 442
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 4, p1 = 442, p2 = 443
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 5, p1 = 443, p2 = 444
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 6, p1 = 444, p2 = 445
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 7, p1 = 445, p2 = 446
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 8, p1 = 446, p2 = 447
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 9, p1 = 447, p2 = 448
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 10, p1 = 448, p2 = 449
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 11, p1 = 449, p2 = 450
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 12, p1 = 450, p2 = 451
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 13, p1 = 451, p2 = 452
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 14, p1 = 452, p2 = 453
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 15, p1 = 453, p2 = 454
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 16, p1 = 454, p2 = 455
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 17, p1 = 455, p2 = 456
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 18, p1 = 456, p2 = 457
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 19, p1 = 457, p2 = 458
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 20, p1 = 458, p2 = 459
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 21, p1 = 459, p2 = 460
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 22, p1 = 460, p2 = 461
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 23, p1 = 461, p2 = 462
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 24, p1 = 462, p2 = 463
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 25, p1 = 463, p2 = 464
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+j = 26, p1 = 464, p2 = 403
+segm-trigs: trig1 = 1025, trig1b = 1025, trig2 = 1028, trig2b = 1028
+store line 98
+j = 1, p1 = 387, p2 = 465
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 2, p1 = 465, p2 = 466
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 3, p1 = 466, p2 = 467
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 4, p1 = 467, p2 = 468
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 5, p1 = 468, p2 = 469
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 6, p1 = 469, p2 = 470
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 7, p1 = 470, p2 = 471
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 8, p1 = 471, p2 = 472
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 9, p1 = 472, p2 = 473
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 10, p1 = 473, p2 = 474
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 11, p1 = 474, p2 = 475
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 12, p1 = 475, p2 = 476
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 13, p1 = 476, p2 = 477
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 14, p1 = 477, p2 = 478
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 15, p1 = 478, p2 = 479
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 16, p1 = 479, p2 = 480
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 17, p1 = 480, p2 = 481
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 18, p1 = 481, p2 = 482
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 19, p1 = 482, p2 = 483
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 20, p1 = 483, p2 = 484
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 21, p1 = 484, p2 = 485
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 22, p1 = 485, p2 = 486
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 23, p1 = 486, p2 = 487
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 24, p1 = 487, p2 = 488
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 25, p1 = 488, p2 = 489
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+j = 26, p1 = 489, p2 = 490
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1031, trig2b = 1031
+store line 99
+j = 1, p1 = 490, p2 = 491
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1034, trig2b = 1034
+j = 2, p1 = 491, p2 = 492
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1034, trig2b = 1034
+j = 3, p1 = 492, p2 = 493
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1034, trig2b = 1034
+j = 4, p1 = 493, p2 = 494
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1034, trig2b = 1034
+j = 5, p1 = 494, p2 = 495
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1034, trig2b = 1034
+j = 6, p1 = 495, p2 = 439
+segm-trigs: trig1 = 1026, trig1b = 1026, trig2 = 1034, trig2b = 1034
+store line 100
+j = 1, p1 = 496, p2 = 497
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 2, p1 = 497, p2 = 498
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 3, p1 = 498, p2 = 499
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 4, p1 = 499, p2 = 500
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 5, p1 = 500, p2 = 501
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 6, p1 = 501, p2 = 502
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 7, p1 = 502, p2 = 503
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 8, p1 = 503, p2 = 504
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 9, p1 = 504, p2 = 505
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 10, p1 = 505, p2 = 506
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 11, p1 = 506, p2 = 507
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 12, p1 = 507, p2 = 508
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 13, p1 = 508, p2 = 509
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 14, p1 = 509, p2 = 510
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 15, p1 = 510, p2 = 511
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 16, p1 = 511, p2 = 512
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 17, p1 = 512, p2 = 513
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 18, p1 = 513, p2 = 514
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 19, p1 = 514, p2 = 515
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 20, p1 = 515, p2 = 516
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 21, p1 = 516, p2 = 517
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 22, p1 = 517, p2 = 518
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 23, p1 = 518, p2 = 519
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 24, p1 = 519, p2 = 520
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 25, p1 = 520, p2 = 521
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+j = 26, p1 = 521, p2 = 419
+segm-trigs: trig1 = 1027, trig1b = 1027, trig2 = 1030, trig2b = 1030
+store line 101
+j = 1, p1 = 439, p2 = 522
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 2, p1 = 522, p2 = 523
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 3, p1 = 523, p2 = 524
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 4, p1 = 524, p2 = 525
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 5, p1 = 525, p2 = 526
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 6, p1 = 526, p2 = 527
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 7, p1 = 527, p2 = 528
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 8, p1 = 528, p2 = 529
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 9, p1 = 529, p2 = 530
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 10, p1 = 530, p2 = 531
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 11, p1 = 531, p2 = 532
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+j = 12, p1 = 532, p2 = 496
+segm-trigs: trig1 = 1028, trig1b = 1028, trig2 = 1034, trig2b = 1034
+store line 102
+j = 1, p1 = 533, p2 = 534
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 2, p1 = 534, p2 = 535
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 3, p1 = 535, p2 = 536
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 4, p1 = 536, p2 = 537
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 5, p1 = 537, p2 = 538
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 6, p1 = 538, p2 = 539
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 7, p1 = 539, p2 = 540
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 8, p1 = 540, p2 = 541
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 9, p1 = 541, p2 = 542
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 10, p1 = 542, p2 = 543
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 11, p1 = 543, p2 = 544
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 12, p1 = 544, p2 = 545
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 13, p1 = 545, p2 = 546
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 14, p1 = 546, p2 = 547
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 15, p1 = 547, p2 = 548
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 16, p1 = 548, p2 = 549
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 17, p1 = 549, p2 = 550
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 18, p1 = 550, p2 = 551
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 19, p1 = 551, p2 = 552
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 20, p1 = 552, p2 = 553
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 21, p1 = 553, p2 = 554
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 22, p1 = 554, p2 = 555
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 23, p1 = 555, p2 = 556
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 24, p1 = 556, p2 = 557
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 25, p1 = 557, p2 = 558
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+j = 26, p1 = 558, p2 = 375
+segm-trigs: trig1 = 1029, trig1b = 1029, trig2 = 1032, trig2b = 1032
+store line 103
+j = 1, p1 = 496, p2 = 559
+segm-trigs: trig1 = 1030, trig1b = 1030, trig2 = 1033, trig2b = 1033
+j = 2, p1 = 559, p2 = 560
+segm-trigs: trig1 = 1030, trig1b = 1030, trig2 = 1033, trig2b = 1033
+j = 3, p1 = 560, p2 = 561
+segm-trigs: trig1 = 1030, trig1b = 1030, trig2 = 1033, trig2b = 1033
+j = 4, p1 = 561, p2 = 562
+segm-trigs: trig1 = 1030, trig1b = 1030, trig2 = 1033, trig2b = 1033
+j = 5, p1 = 562, p2 = 563
+segm-trigs: trig1 = 1030, trig1b = 1030, trig2 = 1033, trig2b = 1033
+j = 6, p1 = 563, p2 = 533
+segm-trigs: trig1 = 1030, trig1b = 1030, trig2 = 1033, trig2b = 1033
+store line 104
+j = 1, p1 = 533, p2 = 564
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 2, p1 = 564, p2 = 565
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 3, p1 = 565, p2 = 566
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 4, p1 = 566, p2 = 567
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 5, p1 = 567, p2 = 568
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 6, p1 = 568, p2 = 569
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 7, p1 = 569, p2 = 570
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 8, p1 = 570, p2 = 571
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 9, p1 = 571, p2 = 572
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 10, p1 = 572, p2 = 573
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 11, p1 = 573, p2 = 574
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+j = 12, p1 = 574, p2 = 490
+segm-trigs: trig1 = 1032, trig1b = 1032, trig2 = 1033, trig2b = 1033
+store line 105
+j = 1, p1 = 575, p2 = 576
+segm-trigs: trig1 = 1040, trig1b = 1040, trig2 = 1183, trig2b = 1183
+j = 2, p1 = 576, p2 = 577
+segm-trigs: trig1 = 1040, trig1b = 1040, trig2 = 1183, trig2b = 1183
+j = 3, p1 = 577, p2 = 578
+segm-trigs: trig1 = 1040, trig1b = 1040, trig2 = 1183, trig2b = 1183
+j = 4, p1 = 578, p2 = 579
+segm-trigs: trig1 = 1040, trig1b = 1040, trig2 = 1183, trig2b = 1183
+j = 5, p1 = 579, p2 = 580
+segm-trigs: trig1 = 1040, trig1b = 1040, trig2 = 1183, trig2b = 1183
+store line 106
+j = 1, p1 = 581, p2 = 580
+segm-trigs: trig1 = 1185, trig1b = 1195, trig2 = 1063, trig2b = 1083
+store line 107
+j = 1, p1 = 582, p2 = 575
+segm-trigs: trig1 = 1068, trig1b = 1069, trig2 = 1181, trig2b = 1171
+store line 108
+j = 1, p1 = 583, p2 = 584
+segm-trigs: trig1 = 1308, trig1b = 1369, trig2 = 1073, trig2b = 1079
+j = 2, p1 = 584, p2 = 585
+segm-trigs: trig1 = 1369, trig1b = 1349, trig2 = 1079, trig2b = 1061
+j = 3, p1 = 585, p2 = 586
+segm-trigs: trig1 = 1349, trig1b = 1333, trig2 = 1061, trig2b = 1056
+j = 4, p1 = 586, p2 = 587
+segm-trigs: trig1 = 1333, trig1b = 1306, trig2 = 1056, trig2b = 1088
+j = 5, p1 = 587, p2 = 588
+segm-trigs: trig1 = 1306, trig1b = 1365, trig2 = 1088, trig2b = 1055
+j = 6, p1 = 588, p2 = 589
+segm-trigs: trig1 = 1365, trig1b = 1343, trig2 = 1055, trig2b = 1049
+j = 7, p1 = 589, p2 = 590
+segm-trigs: trig1 = 1343, trig1b = 1323, trig2 = 1049, trig2b = 1039
+j = 8, p1 = 590, p2 = 591
+segm-trigs: trig1 = 1323, trig1b = 1298, trig2 = 1039, trig2b = 1080
+store line 109
+j = 1, p1 = 583, p2 = 592
+segm-trigs: trig1 = 1073, trig1b = 1073, trig2 = 1281, trig2b = 1281
+j = 2, p1 = 592, p2 = 593
+segm-trigs: trig1 = 1073, trig1b = 1073, trig2 = 1281, trig2b = 1281
+j = 3, p1 = 593, p2 = 594
+segm-trigs: trig1 = 1073, trig1b = 1073, trig2 = 1281, trig2b = 1281
+j = 4, p1 = 594, p2 = 595
+segm-trigs: trig1 = 1073, trig1b = 1073, trig2 = 1281, trig2b = 1281
+j = 5, p1 = 595, p2 = 582
+segm-trigs: trig1 = 1073, trig1b = 1073, trig2 = 1281, trig2b = 1281
+store line 110
+j = 1, p1 = 581, p2 = 596
+segm-trigs: trig1 = 1080, trig1b = 1080, trig2 = 1374, trig2b = 1374
+j = 2, p1 = 596, p2 = 597
+segm-trigs: trig1 = 1080, trig1b = 1080, trig2 = 1374, trig2b = 1374
+j = 3, p1 = 597, p2 = 598
+segm-trigs: trig1 = 1080, trig1b = 1080, trig2 = 1374, trig2b = 1374
+j = 4, p1 = 598, p2 = 599
+segm-trigs: trig1 = 1080, trig1b = 1080, trig2 = 1374, trig2b = 1374
+j = 5, p1 = 599, p2 = 591
+segm-trigs: trig1 = 1080, trig1b = 1080, trig2 = 1374, trig2b = 1374
+store line 111
+j = 1, p1 = 600, p2 = 601
+segm-trigs: trig1 = 1096, trig1b = 1098, trig2 = 1169, trig2b = 1159
+store line 112
+j = 1, p1 = 602, p2 = 603
+segm-trigs: trig1 = 1145, trig1b = 1155, trig2 = 1099, trig2b = 1100
+store line 113
+j = 1, p1 = 604, p2 = 605
+segm-trigs: trig1 = 1218, trig1b = 1279, trig2 = 1132, trig2b = 1122
+j = 2, p1 = 605, p2 = 606
+segm-trigs: trig1 = 1279, trig1b = 1259, trig2 = 1122, trig2b = 1105
+j = 3, p1 = 606, p2 = 607
+segm-trigs: trig1 = 1259, trig1b = 1243, trig2 = 1105, trig2b = 1125
+j = 4, p1 = 607, p2 = 608
+segm-trigs: trig1 = 1243, trig1b = 1216, trig2 = 1125, trig2b = 1143
+j = 5, p1 = 608, p2 = 609
+segm-trigs: trig1 = 1216, trig1b = 1275, trig2 = 1143, trig2b = 1104
+j = 6, p1 = 609, p2 = 610
+segm-trigs: trig1 = 1275, trig1b = 1253, trig2 = 1104, trig2b = 1115
+j = 7, p1 = 610, p2 = 611
+segm-trigs: trig1 = 1253, trig1b = 1233, trig2 = 1115, trig2b = 1139
+j = 8, p1 = 611, p2 = 612
+segm-trigs: trig1 = 1233, trig1b = 1208, trig2 = 1139, trig2b = 1133
+store line 114
+j = 1, p1 = 604, p2 = 613
+segm-trigs: trig1 = 1132, trig1b = 1132, trig2 = 1371, trig2b = 1371
+j = 2, p1 = 613, p2 = 614
+segm-trigs: trig1 = 1132, trig1b = 1132, trig2 = 1371, trig2b = 1371
+j = 3, p1 = 614, p2 = 615
+segm-trigs: trig1 = 1132, trig1b = 1132, trig2 = 1371, trig2b = 1371
+j = 4, p1 = 615, p2 = 616
+segm-trigs: trig1 = 1132, trig1b = 1132, trig2 = 1371, trig2b = 1371
+j = 5, p1 = 616, p2 = 603
+segm-trigs: trig1 = 1132, trig1b = 1132, trig2 = 1371, trig2b = 1371
+store line 115
+j = 1, p1 = 601, p2 = 617
+segm-trigs: trig1 = 1133, trig1b = 1133, trig2 = 1284, trig2b = 1284
+j = 2, p1 = 617, p2 = 618
+segm-trigs: trig1 = 1133, trig1b = 1133, trig2 = 1284, trig2b = 1284
+j = 3, p1 = 618, p2 = 619
+segm-trigs: trig1 = 1133, trig1b = 1133, trig2 = 1284, trig2b = 1284
+j = 4, p1 = 619, p2 = 620
+segm-trigs: trig1 = 1133, trig1b = 1133, trig2 = 1284, trig2b = 1284
+j = 5, p1 = 620, p2 = 612
+segm-trigs: trig1 = 1133, trig1b = 1133, trig2 = 1284, trig2b = 1284
+store line 116
+j = 1, p1 = 602, p2 = 621
+segm-trigs: trig1 = 1142, trig1b = 1142, trig2 = 1157, trig2b = 1157
+j = 2, p1 = 621, p2 = 622
+segm-trigs: trig1 = 1142, trig1b = 1142, trig2 = 1157, trig2b = 1157
+j = 3, p1 = 622, p2 = 623
+segm-trigs: trig1 = 1142, trig1b = 1142, trig2 = 1157, trig2b = 1157
+j = 4, p1 = 623, p2 = 624
+segm-trigs: trig1 = 1142, trig1b = 1142, trig2 = 1157, trig2b = 1157
+j = 5, p1 = 624, p2 = 600
+segm-trigs: trig1 = 1142, trig1b = 1142, trig2 = 1157, trig2b = 1157
+store line 117
+j = 1, p1 = 368, p2 = 602
+segm-trigs: trig1 = 1146, trig1b = 1146, trig2 = 1157, trig2b = 1157
+store line 118
+j = 1, p1 = 603, p2 = 367
+segm-trigs: trig1 = 1155, trig1b = 1155, trig2 = 1371, trig2b = 1371
+store line 119
+j = 1, p1 = 369, p2 = 600
+segm-trigs: trig1 = 1158, trig1b = 1158, trig2 = 1169, trig2b = 1169
+store line 120
+j = 1, p1 = 370, p2 = 601
+segm-trigs: trig1 = 1160, trig1b = 1160, trig2 = 1284, trig2b = 1284
+store line 121
+j = 1, p1 = 373, p2 = 575
+segm-trigs: trig1 = 1172, trig1b = 1172, trig2 = 1183, trig2b = 1183
+store line 122
+j = 1, p1 = 582, p2 = 374
+segm-trigs: trig1 = 1181, trig1b = 1181, trig2 = 1281, trig2b = 1281
+store line 123
+j = 1, p1 = 372, p2 = 580
+segm-trigs: trig1 = 1184, trig1b = 1184, trig2 = 1195, trig2b = 1195
+store line 124
+j = 1, p1 = 371, p2 = 581
+segm-trigs: trig1 = 1186, trig1b = 1186, trig2 = 1374, trig2b = 1374
+store line 125
+j = 1, p1 = 28, p2 = 625
+segm-trigs: trig1 = 1408, trig1b = 1408, trig2 = 1197, trig2b = 1277
+j = 2, p1 = 625, p2 = 26
+segm-trigs: trig1 = 1408, trig1b = 1408, trig2 = 1277, trig2b = 1277
+store line 126
+j = 1, p1 = 74, p2 = 626
+segm-trigs: trig1 = 1200, trig1b = 1206, trig2 = 1434, trig2b = 1434
+j = 2, p1 = 626, p2 = 71
+segm-trigs: trig1 = 1206, trig1b = 1206, trig2 = 1434, trig2b = 1434
+store line 127
+j = 1, p1 = 612, p2 = 74
+segm-trigs: trig1 = 1200, trig1b = 1200, trig2 = 1282, trig2b = 1282
+store line 128
+j = 1, p1 = 28, p2 = 627
+segm-trigs: trig1 = 1201, trig1b = 1207, trig2 = 1430, trig2b = 1431
+j = 2, p1 = 627, p2 = 41
+segm-trigs: trig1 = 1207, trig1b = 1207, trig2 = 1431, trig2b = 1431
+store line 129
+j = 1, p1 = 49, p2 = 628
+segm-trigs: trig1 = 1202, trig1b = 1202, trig2 = 1446, trig2b = 1446
+j = 2, p1 = 628, p2 = 47
+segm-trigs: trig1 = 1202, trig1b = 1203, trig2 = 1446, trig2b = 1446
+store line 130
+j = 1, p1 = 41, p2 = 629
+segm-trigs: trig1 = 1211, trig1b = 1211, trig2 = 1433, trig2b = 1433
+j = 2, p1 = 629, p2 = 43
+segm-trigs: trig1 = 1211, trig1b = 1212, trig2 = 1433, trig2b = 1433
+store line 131
+j = 1, p1 = 47, p2 = 630
+segm-trigs: trig1 = 1214, trig1b = 1215, trig2 = 1444, trig2b = 1444
+j = 2, p1 = 630, p2 = 38
+segm-trigs: trig1 = 1215, trig1b = 1215, trig2 = 1444, trig2b = 1444
+store line 132
+j = 1, p1 = 43, p2 = 604
+segm-trigs: trig1 = 1218, trig1b = 1218, trig2 = 1373, trig2b = 1373
+store line 133
+j = 1, p1 = 38, p2 = 631
+segm-trigs: trig1 = 1219, trig1b = 1226, trig2 = 1447, trig2b = 1417
+j = 2, p1 = 631, p2 = 36
+segm-trigs: trig1 = 1226, trig1b = 1226, trig2 = 1417, trig2b = 1417
+store line 134
+j = 1, p1 = 71, p2 = 632
+segm-trigs: trig1 = 1221, trig1b = 1221, trig2 = 1422, trig2b = 1422
+j = 2, p1 = 632, p2 = 68
+segm-trigs: trig1 = 1221, trig1b = 1224, trig2 = 1422, trig2b = 1422
+store line 135
+j = 1, p1 = 68, p2 = 633
+segm-trigs: trig1 = 1228, trig1b = 1229, trig2 = 1435, trig2b = 1436
+j = 2, p1 = 633, p2 = 70
+segm-trigs: trig1 = 1229, trig1b = 1229, trig2 = 1436, trig2b = 1436
+store line 136
+j = 1, p1 = 36, p2 = 634
+segm-trigs: trig1 = 1231, trig1b = 1232, trig2 = 1412, trig2b = 1412
+j = 2, p1 = 634, p2 = 18
+segm-trigs: trig1 = 1232, trig1b = 1232, trig2 = 1412, trig2b = 1412
+store line 137
+j = 1, p1 = 70, p2 = 635
+segm-trigs: trig1 = 1235, trig1b = 1239, trig2 = 1404, trig2b = 1394
+j = 2, p1 = 635, p2 = 59
+segm-trigs: trig1 = 1239, trig1b = 1239, trig2 = 1394, trig2b = 1394
+store line 138
+j = 1, p1 = 18, p2 = 636
+segm-trigs: trig1 = 1238, trig1b = 1238, trig2 = 1418, trig2b = 1418
+j = 2, p1 = 636, p2 = 15
+segm-trigs: trig1 = 1238, trig1b = 1240, trig2 = 1418, trig2b = 1398
+store line 139
+j = 1, p1 = 59, p2 = 637
+segm-trigs: trig1 = 1241, trig1b = 1247, trig2 = 1394, trig2b = 1385
+j = 2, p1 = 637, p2 = 57
+segm-trigs: trig1 = 1247, trig1b = 1247, trig2 = 1385, trig2b = 1385
+store line 140
+j = 1, p1 = 15, p2 = 638
+segm-trigs: trig1 = 1248, trig1b = 1248, trig2 = 1395, trig2b = 1395
+j = 2, p1 = 638, p2 = 17
+segm-trigs: trig1 = 1248, trig1b = 1252, trig2 = 1395, trig2b = 1395
+store line 141
+j = 1, p1 = 57, p2 = 639
+segm-trigs: trig1 = 1251, trig1b = 1255, trig2 = 1379, trig2b = 1379
+j = 2, p1 = 639, p2 = 55
+segm-trigs: trig1 = 1255, trig1b = 1255, trig2 = 1379, trig2b = 1379
+store line 142
+j = 1, p1 = 17, p2 = 640
+segm-trigs: trig1 = 1256, trig1b = 1256, trig2 = 1386, trig2b = 1386
+j = 2, p1 = 640, p2 = 44
+segm-trigs: trig1 = 1256, trig1b = 1257, trig2 = 1386, trig2b = 1386
+store line 143
+j = 1, p1 = 55, p2 = 641
+segm-trigs: trig1 = 1260, trig1b = 1264, trig2 = 1438, trig2b = 1455
+j = 2, p1 = 641, p2 = 53
+segm-trigs: trig1 = 1264, trig1b = 1264, trig2 = 1455, trig2b = 1455
+store line 144
+j = 1, p1 = 44, p2 = 642
+segm-trigs: trig1 = 1261, trig1b = 1261, trig2 = 1387, trig2b = 1387
+j = 2, p1 = 642, p2 = 24
+segm-trigs: trig1 = 1261, trig1b = 1267, trig2 = 1387, trig2b = 1387
+store line 145
+j = 1, p1 = 53, p2 = 643
+segm-trigs: trig1 = 1268, trig1b = 1273, trig2 = 1452, trig2b = 1452
+j = 2, p1 = 643, p2 = 51
+segm-trigs: trig1 = 1273, trig1b = 1273, trig2 = 1452, trig2b = 1452
+store line 146
+j = 1, p1 = 24, p2 = 644
+segm-trigs: trig1 = 1271, trig1b = 1271, trig2 = 1429, trig2b = 1429
+j = 2, p1 = 644, p2 = 26
+segm-trigs: trig1 = 1271, trig1b = 1272, trig2 = 1429, trig2b = 1407
+store line 147
+j = 1, p1 = 51, p2 = 645
+segm-trigs: trig1 = 1274, trig1b = 1274, trig2 = 1449, trig2b = 1449
+j = 2, p1 = 645, p2 = 49
+segm-trigs: trig1 = 1274, trig1b = 1278, trig2 = 1449, trig2b = 1449
+store line 148
+j = 1, p1 = 583, p2 = 10
+segm-trigs: trig1 = 1283, trig1b = 1283, trig2 = 1308, trig2b = 1308
+store line 149
+j = 1, p1 = 11, p2 = 646
+segm-trigs: trig1 = 1406, trig1b = 1406, trig2 = 1287, trig2b = 1367
+j = 2, p1 = 646, p2 = 20
+segm-trigs: trig1 = 1406, trig1b = 1406, trig2 = 1367, trig2b = 1367
+store line 150
+j = 1, p1 = 66, p2 = 647
+segm-trigs: trig1 = 1290, trig1b = 1296, trig2 = 1460, trig2b = 1460
+j = 2, p1 = 647, p2 = 61
+segm-trigs: trig1 = 1296, trig1b = 1296, trig2 = 1460, trig2b = 1460
+store line 151
+j = 1, p1 = 591, p2 = 66
+segm-trigs: trig1 = 1290, trig1b = 1290, trig2 = 1372, trig2b = 1372
+store line 152
+j = 1, p1 = 11, p2 = 648
+segm-trigs: trig1 = 1291, trig1b = 1297, trig2 = 1397, trig2b = 1397
+j = 2, p1 = 648, p2 = 8
+segm-trigs: trig1 = 1297, trig1b = 1297, trig2 = 1397, trig2b = 1397
+store line 153
+j = 1, p1 = 6, p2 = 649
+segm-trigs: trig1 = 1292, trig1b = 1292, trig2 = 1457, trig2b = 1457
+j = 2, p1 = 649, p2 = 1
+segm-trigs: trig1 = 1292, trig1b = 1293, trig2 = 1457, trig2b = 1384
+store line 154
+j = 1, p1 = 8, p2 = 650
+segm-trigs: trig1 = 1301, trig1b = 1301, trig2 = 1388, trig2b = 1388
+j = 2, p1 = 650, p2 = 10
+segm-trigs: trig1 = 1301, trig1b = 1302, trig2 = 1388, trig2b = 1388
+store line 155
+j = 1, p1 = 1, p2 = 651
+segm-trigs: trig1 = 1304, trig1b = 1305, trig2 = 1384, trig2b = 1391
+j = 2, p1 = 651, p2 = 3
+segm-trigs: trig1 = 1305, trig1b = 1305, trig2 = 1391, trig2b = 1391
+store line 156
+j = 1, p1 = 3, p2 = 652
+segm-trigs: trig1 = 1309, trig1b = 1316, trig2 = 1391, trig2b = 1400
+j = 2, p1 = 652, p2 = 5
+segm-trigs: trig1 = 1316, trig1b = 1316, trig2 = 1400, trig2b = 1400
+store line 157
+j = 1, p1 = 61, p2 = 653
+segm-trigs: trig1 = 1311, trig1b = 1311, trig2 = 1392, trig2b = 1392
+j = 2, p1 = 653, p2 = 63
+segm-trigs: trig1 = 1311, trig1b = 1314, trig2 = 1392, trig2b = 1393
+store line 158
+j = 1, p1 = 63, p2 = 654
+segm-trigs: trig1 = 1318, trig1b = 1319, trig2 = 1393, trig2b = 1409
+j = 2, p1 = 654, p2 = 65
+segm-trigs: trig1 = 1319, trig1b = 1319, trig2 = 1409, trig2b = 1409
+store line 159
+j = 1, p1 = 5, p2 = 655
+segm-trigs: trig1 = 1321, trig1b = 1322, trig2 = 1402, trig2b = 1402
+j = 2, p1 = 655, p2 = 14
+segm-trigs: trig1 = 1322, trig1b = 1322, trig2 = 1402, trig2b = 1402
+store line 160
+j = 1, p1 = 65, p2 = 656
+segm-trigs: trig1 = 1325, trig1b = 1329, trig2 = 1411, trig2b = 1411
+j = 2, p1 = 656, p2 = 76
+segm-trigs: trig1 = 1329, trig1b = 1329, trig2 = 1411, trig2b = 1411
+store line 161
+j = 1, p1 = 14, p2 = 657
+segm-trigs: trig1 = 1328, trig1b = 1328, trig2 = 1410, trig2b = 1410
+j = 2, p1 = 657, p2 = 29
+segm-trigs: trig1 = 1328, trig1b = 1330, trig2 = 1410, trig2b = 1410
+store line 162
+j = 1, p1 = 76, p2 = 658
+segm-trigs: trig1 = 1331, trig1b = 1337, trig2 = 1415, trig2b = 1415
+j = 2, p1 = 658, p2 = 78
+segm-trigs: trig1 = 1337, trig1b = 1337, trig2 = 1415, trig2b = 1415
+store line 163
+j = 1, p1 = 29, p2 = 659
+segm-trigs: trig1 = 1338, trig1b = 1338, trig2 = 1414, trig2b = 1414
+j = 2, p1 = 659, p2 = 31
+segm-trigs: trig1 = 1338, trig1b = 1342, trig2 = 1414, trig2b = 1414
+store line 164
+j = 1, p1 = 78, p2 = 660
+segm-trigs: trig1 = 1341, trig1b = 1345, trig2 = 1428, trig2b = 1445
+j = 2, p1 = 660, p2 = 80
+segm-trigs: trig1 = 1345, trig1b = 1345, trig2 = 1445, trig2b = 1445
+store line 165
+j = 1, p1 = 31, p2 = 661
+segm-trigs: trig1 = 1346, trig1b = 1346, trig2 = 1425, trig2b = 1425
+j = 2, p1 = 661, p2 = 33
+segm-trigs: trig1 = 1346, trig1b = 1347, trig2 = 1425, trig2b = 1425
+store line 166
+j = 1, p1 = 80, p2 = 662
+segm-trigs: trig1 = 1350, trig1b = 1354, trig2 = 1450, trig2b = 1451
+j = 2, p1 = 662, p2 = 82
+segm-trigs: trig1 = 1354, trig1b = 1354, trig2 = 1451, trig2b = 1451
+store line 167
+j = 1, p1 = 33, p2 = 663
+segm-trigs: trig1 = 1351, trig1b = 1351, trig2 = 1424, trig2b = 1424
+j = 2, p1 = 663, p2 = 22
+segm-trigs: trig1 = 1351, trig1b = 1357, trig2 = 1424, trig2b = 1416
+store line 168
+j = 1, p1 = 82, p2 = 664
+segm-trigs: trig1 = 1358, trig1b = 1363, trig2 = 1453, trig2b = 1453
+j = 2, p1 = 664, p2 = 84
+segm-trigs: trig1 = 1363, trig1b = 1363, trig2 = 1453, trig2b = 1453
+store line 169
+j = 1, p1 = 22, p2 = 665
+segm-trigs: trig1 = 1361, trig1b = 1361, trig2 = 1413, trig2b = 1413
+j = 2, p1 = 665, p2 = 20
+segm-trigs: trig1 = 1361, trig1b = 1362, trig2 = 1413, trig2b = 1413
+store line 170
+j = 1, p1 = 84, p2 = 666
+segm-trigs: trig1 = 1364, trig1b = 1364, trig2 = 1456, trig2b = 1456
+j = 2, p1 = 666, p2 = 6
+segm-trigs: trig1 = 1364, trig1b = 1368, trig2 = 1456, trig2b = 1456
+
+
+Points:           666
+Volume Elements:  0
+
+Volume elements in qualityclasses:
+   0 - 0.05: 0
+0.05 -  0.1: 0
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 0
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 0
+0.65 -  0.7: 0
+ 0.7 - 0.75: 0
+0.75 -  0.8: 0
+ 0.8 - 0.85: 0
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 0
+total error: 0
