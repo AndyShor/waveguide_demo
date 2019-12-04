@@ -31,12 +31,19 @@ Body 1
   Target Bodies(1) = 1
   Name = "Body 1"
   Equation = 1
-  Material = 2
+  Material = 1
 End
 
 Body 2
-  Target Bodies(2) = 2 3
+  Target Bodies(1) = 2
   Name = "Body 2"
+  Equation = 1
+  Material = 2
+End
+
+Body 3
+  Target Bodies(1) = 3
+  Name = "Body 3"
   Equation = 1
   Material = 1
 End
@@ -129,22 +136,26 @@ End
 
 Material 2
   Name = "Quartz"
-  Relative Permittivity = 1
+  Relative Permittivity = 2.0
   Inverse Relative Permeability = 1
 End
 
 Boundary Condition 1
-  Target Boundaries(34) = 3 4 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20 22 23 24 25 26 28 29 30 31 32 33 34 35 36 37 38 39 
+  Target Boundaries(12) = 17 6 7 8 9 10 11 12 13 14 15 16 
   Name = "PEC"
-  E re {f} = 0
   E re {e} = 0
-  E im {f} = 0
   E im {e} = 0
 End
 
 Boundary Condition 2
-  Target Boundaries(1) = 27
+  Target Boundaries(1) = 1 
   Name = "Inport"
-  Magnetic Boundary Load 2 = Variable Coordinate 1;Real MATC "beta0*k0/kc*sin(kc*(tx+a/2))"
+  Magnetic Boundary Load im 2 = Variable Coordinate 1;Real MATC "-2*beta0*k0/kc*sin(kc*(tx+a/2))"
+  Electric Robin Coefficient im = $ beta0
+End
+
+Boundary Condition 3
+  Target Boundaries(1) = 4 
+  Name = "Outport"
   Electric Robin Coefficient im = $ beta0
 End
